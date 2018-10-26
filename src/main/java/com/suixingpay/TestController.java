@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @RequestMapping(value = "/list", method = {RequestMethod.GET})
     public String list() {
-        //hgjghjghjhkkhjkjh
+        //hgjghjghjhkkhj
      return "test list";
 
     }
